@@ -130,3 +130,7 @@ python inference_commandline_hf.py \
 | :--- | :--- |
 | normal | [sample_amitaro1.wav](./gen_samples/sample_amitaro1.wav) |
 | sasayaki_a | [sample_amitaro2.wav](./gen_samples/sample_amitaro2.wav) |
+
+## クレジット
+
+音声データ：あみたろの声素材工房（https://amitaro.net）
