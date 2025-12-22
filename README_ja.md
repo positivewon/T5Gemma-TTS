@@ -361,7 +361,7 @@ T5Gemma-TTS/
 
 ```bibtex
 @misc{t5gemma-tts,
-  author = {Aratako},
+  author = {Chihiro Arata},
   title = {T5Gemma-TTS: An Encoder-Decoder LLM-based TTS Model},
   year = {2025},
   publisher = {GitHub},
